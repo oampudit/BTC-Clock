@@ -1,3 +1,3 @@
 # BTC-BlockClock
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/typescript-7tgaut)
+[Open Web Example](https://blockclock.playcode.io/)
