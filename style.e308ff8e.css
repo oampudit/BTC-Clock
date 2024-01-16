@@ -1,0 +1,74 @@
+body {
+  background-color: #282828;
+  color: #fff;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 36px;
+  text-align: center;
+  margin: 0;
+}
+
+.blockclock {
+  background-color: #444;
+  display: inline-block;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.blockclock-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.blockclock-header img {
+  height: 50px;
+  margin-right: 10px;
+}
+
+.blockclock-header-text {
+  font-size: 24px;
+}
+
+.blockclock-display {
+  display: flex;
+  flex-direction: column;
+}
+
+.blockclock-display-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.blockclock-display-cell {
+  padding: 10px;
+}
+
+.blockclock-display-cell-big {
+  font-size: 60px;
+}
+
+.blockclock-display-cell-small {
+  font-size: 30px;
+}
+
+.blockclock-display-label {
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+#latest-transactions li,
+#latest-blocks li {
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 5px 0;
+}
+
+#bitcoin-price {
+  font-size: 24px;
+  font-weight: 500;
+}
+
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
