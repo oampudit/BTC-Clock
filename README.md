@@ -1,3 +1,3 @@
-# BTC-BlockClock
+# BTC-Clock
 
-[Open Web Example](https://blockclock.playcode.io/)
+[Open Web](https://oampudit.github.io/BTC-Clock/)
